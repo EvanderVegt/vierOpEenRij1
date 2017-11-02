@@ -41,10 +41,10 @@
     <center>
         <table>
             <tr>
-                <td> <div id="cirkel"><button onclick="trui()">Change text</button> </div> </td>
-                <td> <div id="cirkel"> </div> </td>
-                <td> <div id="cirkel"> </div> </td>
-                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel" class="red_green"></div> </td>
+                <td> <div id="cirkel"class="red_green"> </div> </td>
+                <td> <div id="cirkel"class="red_green"> </div> </td>
+                <td> <div id="cirkel"class="red_green"> </div> </td>
                 <td> <div id="cirkel"> </div> </td>
                 <td> <div id="cirkel"> </div> </td>
                 <td> <div id="cirkel"> </div> </td>
