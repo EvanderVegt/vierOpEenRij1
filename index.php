@@ -27,68 +27,73 @@
                 background-color:red;
               
             }
+            #cirkel{
+                
+            }
+          
             
             
             
         </style>
+        <script src="oefening1.js"></script>
     </head>
     <body>
     <center>
         <table>
             <tr>
-                <td><div class="blue_green"></div></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td> <div id="cirkel"><button onclick="trui()">Change text</button> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
             </tr>
             
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
             </tr>
             <tr>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
+                <td> <div id="cirkel"> </div> </td>
             </tr>
         
             
